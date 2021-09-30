@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "899552265019",
+    "firebase_url": "https://thriftuniverse-f6ec5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thriftuniverse-f6ec5",
+    "storage_bucket": "thriftuniverse-f6ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899552265019:android:87f895f561df0ed703ed1e",
+        "android_client_info": {
+          "package_name": "com.example.flutterauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899552265019-dnlrtcidir1t0njl72aj7pmte5vd2or6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6-TSBgC2IXB1Apx0HkG9DQTx5dVsFeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899552265019-dnlrtcidir1t0njl72aj7pmte5vd2or6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899552265019:android:5f82004bd099a3dd03ed1e",
+        "android_client_info": {
+          "package_name": "com.example.thriftuniversecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899552265019-dnlrtcidir1t0njl72aj7pmte5vd2or6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6-TSBgC2IXB1Apx0HkG9DQTx5dVsFeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899552265019-dnlrtcidir1t0njl72aj7pmte5vd2or6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899552265019:android:42255efc02e15c8c03ed1e",
+        "android_client_info": {
+          "package_name": "com.tutorial.shourov.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899552265019-dnlrtcidir1t0njl72aj7pmte5vd2or6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6-TSBgC2IXB1Apx0HkG9DQTx5dVsFeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899552265019-dnlrtcidir1t0njl72aj7pmte5vd2or6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

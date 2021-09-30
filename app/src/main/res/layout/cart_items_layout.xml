@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="0dp"
+    app:cardElevation="15dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:background="@color/colorSecondary"
+        >
+        <TextView
+            android:id="@+id/cart_product_name"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Product Name"
+            android:textColor="@color/colorPrimary"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_marginLeft="2dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/cart_product_quantity"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:text="Product Quantitiy"
+            android:gravity="end"
+            android:textAlignment="viewEnd"
+            android:fontFamily="@font/poppins_medium"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="2dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/cart_product_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Product Price"
+            android:fontFamily="@font/poppins_medium"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:layout_below="@+id/cart_product_quantity"
+            android:gravity="center"
+            android:layout_marginTop="15dp"
+            />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
